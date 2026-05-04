@@ -1,0 +1,10 @@
+encryption.key
+checkpoints/
+unknown_faces/
+faces/
+*.log
+*.err
+kernel.errors.txt
+build/
+CMakeFiles/
+CMakeCache.txt

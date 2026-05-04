@@ -1,0 +1,7 @@
+timestamp,person_id,person_name,arcface_sim,facenet_sim,buffalo_sim,ghost_sim,combined_sim,model_used,inference_ms
+2026-05-04 21:44:40,d42316490b7b,Ahmed,-1.0000,-1.0000,0.6070,-1.0000,0.6070,Buffalo_L,162.3
+2026-05-04 21:46:07,8be07597064b,Ahmed,-1.0000,-1.0000,0.5471,-1.0000,0.5471,Buffalo_L,171.7
+2026-05-04 21:47:44,8be07597064b,Ahmed,-1.0000,-1.0000,0.5419,-1.0000,0.5419,Buffalo_L,2923.6
+2026-05-04 21:57:53,a7f609bb331f,Ahmed Gamal,-1.0000,-1.0000,0.6306,-1.0000,0.6306,Buffalo_L,36.3
+2026-05-04 22:00:21,a7f609bb331f,Ahmed Gamal,-1.0000,-1.0000,0.4952,-1.0000,0.4952,Buffalo_L,164.4
+2026-05-04 22:09:38,bff1d65f2e79,Ahmed Gamal,-1.0000,-1.0000,0.3962,-1.0000,0.3962,Buffalo_L,953.8
