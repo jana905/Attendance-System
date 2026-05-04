@@ -8,3 +8,5 @@ kernel.errors.txt
 build/
 CMakeFiles/
 CMakeCache.txt
+attendance/*.csv
+attendance/*.csv
